@@ -1,7 +1,7 @@
 # python
 Python Projects
 
-Working easily on Linux Platforms.
+Works greatly on Linux Platforms.
 command : python3 main.py test.yshp(filename with extension)
 
 Attribute Error on Windows:
