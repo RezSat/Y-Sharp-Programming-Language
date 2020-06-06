@@ -31,10 +31,14 @@ I thought of rebuilding this project with c language beacuse python is slow, my 
   ** I thought of developing a my own hardawre like Arduino with the control of my programming language, beacuse of my main intention**
   ```
 	
-	
+```	
   try to contribute and my contacts are :
        Email : yehantest@gmail.com
        Instagram : @official.yehanwasura.lk
        Whatsapp : +94 0762679048
+       YouTube : https://www.youtube.com/channel/UCzK8p9qKo7hygzsZtshJC_g
        
+       Support Me Via Paypal : https://paypal.me/cyberrex599
+       Support Me Via Patreon : https://patreon.com/thelearningcrux
+ ```      
     Thank You.
