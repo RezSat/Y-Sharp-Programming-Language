@@ -17,6 +17,9 @@ Copy the path of Y#.exe file and add it to environment variables
 
 [3] open command prompt there and type : y# file.yshp and press enter that's all you are done
 
+ex: open cmd inside the bin folder:
+            cmd : y# examples/test.yshp
+
 ```
 
 I thought of rebuilding this project with c language beacuse python is slow, my ultimate objectives are:
