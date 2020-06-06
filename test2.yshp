@@ -1,5 +1,0 @@
-print "--------Welcome--------";
-
-for int x = 0 :: > 10 :: + 1 {
-	print "Hello World";
-}
