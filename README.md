@@ -8,7 +8,9 @@ Please Contribute to This Project if you can.
 
 Windows : 
 ```
-[1] (Only if you need to run Y# from anywhere, otherwise skip this step and just open the cmd inside the bin folder and copy all ysharp files to bin folder and start to run by the command mentioned in the 3rd step )Copy the path of Y#.exe file and add it to environment variables
+[1] (Only if you need to run Y# from anywhere, otherwise skip this step and just open the cmd inside the bin folder and copy all ysharp files to bin folder and start to run by the command mentioned in the 3rd step )
+
+Copy the path of Y#.exe file and add it to environment variables
    ex : if you download my repository to the C drive then y#.exe will be on C:/bin/ file just copy the path to the bin file and goto search bar and search for environment variables and new the variable "path" add new path (then add the path of the y#.exe)
    
 [2] Then make a new file 'ex: file.yshp' or use the tests file given.
