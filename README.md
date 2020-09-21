@@ -1,7 +1,7 @@
 # python <Y#/Y-sharp>
-Hello I am Yehan Wasura, 16 years old for 2020 and this is my one of the best project and this is my own programming language written in Python. The main Intetion of this programming language is for building an easier environment for Robotic Engineers and Computer Automation, but this project doesn't carry those things currently, I hope to develope this upto that level. 
+A programming language written in Python. Just For Fun
 
-Please Contribute to This Project if you can.
+Contribute to This Project if you like. But keep remember it's just for fun
 
 
 (Linux/Unix)command : python3 main.py test.yshp(filename with extension)
