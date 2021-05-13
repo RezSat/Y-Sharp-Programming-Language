@@ -26,7 +26,7 @@ I thought of rebuilding this project with c language beacuse python is slow, my 
   ```
   ** To add more Built-in functions like "speak function and more so then it's easy for programmers to get voice from computer without much coding.I think of doing this because that this programming language is mainly building for Robotic engineering and Computer Automation **
   
-  **I thought od developing this programming language such a way that python code also can use in the same yshp code like html can use css and javascript**
+  **I thought of developing this programming language such a way that python code also can use in the same yshp code like html can use css and javascript**
   
   ** I thought of developing a my own hardawre like Arduino with the control of my programming language, beacuse of my main intention**
   ```
