@@ -1,7 +1,7 @@
 # python <Y#/Y-sharp>
 A programming language written in Python. Just For Fun
 
-Contribute to This Project if you like. But keep remember it's just for fun
+Contribute to This Project if you like. 
 
 
 (Linux/Unix)command : python3 main.py test.yshp(filename with extension)
@@ -22,23 +22,15 @@ ex: open cmd inside the bin folder:
 
 ```
 
-I thought of rebuilding this project with c language beacuse python is slow, my ultimate objectives are:
-  ```
-  ** To add more Built-in functions like "speak function and more so then it's easy for programmers to get voice from computer without much coding.I think of doing this because that this programming language is mainly building for Robotic engineering and Computer Automation **
-  
-  **I thought of developing this programming language such a way that python code also can use in the same yshp code like html can use css and javascript**
-  
-  ** I thought of developing a my own hardawre like Arduino with the control of my programming language, beacuse of my main intention**
-  ```
+I thought of rebuilding this project with c language beacuse python is slow, 
 	
 ```	
   try to contribute and my contacts are :
        Email : yehantest@gmail.com
        Instagram : @official.yehanwasura.lk
-       Whatsapp : +94 0762679048
+       Whatsapp : +94 762679048
        YouTube : https://www.youtube.com/channel/UCzK8p9qKo7hygzsZtshJC_g
        
        Support Me Via Paypal : https://paypal.me/cyberrex599
-       Support Me Via Patreon : https://patreon.com/yehanwasura
  ```      
     Thank You.
