@@ -27,7 +27,7 @@ class BuiltInFunctionObject():
 
             # Get arguments for the function being called
             #TODO Add support for more than one argument
-            try: self.exec_string += ast['arguments'][0] + ")"
+            try: self.exec_string += str(ast['arguments'][0]) + ")"
             except: pass
 
         return self.exec_string
