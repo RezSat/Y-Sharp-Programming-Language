@@ -3,6 +3,8 @@ A programming language written in Python. Just For Fun
 
 Contribute to This Project if you like. 
 
+## New Issues Fixed
+`[*] Not printing integer variables in the ouput console`
 
 (Linux/Unix)command : python3 main.py test.yshp(filename with extension)
 
