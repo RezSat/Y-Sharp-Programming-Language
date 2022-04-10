@@ -25,14 +25,3 @@ ex: open cmd inside the bin folder:
 ```
 
 I thought of rebuilding this project with c language beacuse python is slow, 
-	
-```	
-  try to contribute and my contacts are :
-       Email : yehantest@gmail.com
-       Instagram : @official.yehanwasura.lk
-       Whatsapp : +94 762679048
-       YouTube : https://www.youtube.com/c/OfficialAnonymous
-       
-       Support Me Via Paypal : https://paypal.me/cyberrex599
- ```      
-    Thank You.
